@@ -9,6 +9,7 @@ body {
   font-size: 30px;
   font-family: "Courier New", Courier, monospace;
   background-color: #6a8d75;
+  overflow: hidden;
 }
 h2 {
   color: #ddeedf;
